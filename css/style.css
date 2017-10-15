@@ -20,9 +20,9 @@ p {
 }
 
 .parallax-container {
-  min-height: 600px;
+  min-height: 500px;
   line-height: 0;
-  height: auto;
+ /* height: auto; */
   color: rgba(255,255,255,.9);
 }
   .parallax-container .section {
